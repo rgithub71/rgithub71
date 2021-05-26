@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rgithub71(Rony Ahamed)
+- 👋 Hi, I’m @rgithub71
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
